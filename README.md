@@ -26,7 +26,10 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
   - Its impact on data handling
   - Potential consequences of breaches
     
- <p style="display:inline-block;"><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/excel-projects/blob/main/images/01.png" width="600"/></a><a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/excel-projects/blob/main/images/02.png" width="600"/></a></p>
+ <p style="display:inline-block;">
+   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/excel-projects/blob/main/images/01.png" width="600"/></a>
+   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/excel-projects/blob/main/images/02.png" width="600"/></a>
+ </p>
 
 ---
 
