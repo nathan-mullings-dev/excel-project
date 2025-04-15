@@ -1,8 +1,8 @@
-# excel-projects
+# Excel Project
 
 ---
 
-# 📘 Data Technician Workbook – Week 1
+## 📘 Data Technician Workbook – Week 1
 
 ## 📋 Overview
 
