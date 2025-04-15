@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Data Technician Workbook – Week 1 [PDF](https://github.com/nathan-mullings-dev/excel-project/blob/main/Data%20Technician%20Workbook%20-%20Week%201.pdf)
+## 📘 Data Technician Workbook – Week 1 [(PDF)](https://github.com/nathan-mullings-dev/excel-project/blob/main/Data%20Technician%20Workbook%20-%20Week%201.pdf)
 
 ## 📋 Overview
 
