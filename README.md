@@ -3,7 +3,7 @@
 ---
 
 ## 📘 Data Technician Workbook – Week 1
-[title](https://www.example.com)
+[Data Technician Workbook – Week 1 PDF](https://www.example.com)
 
 ## 📋 Overview
 
