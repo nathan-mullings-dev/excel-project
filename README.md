@@ -25,6 +25,7 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
   - Real-world application
   - Its impact on data handling
   - Potential consequences of breaches
+    
  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/excel-projects/blob/main/images/01.png" width="100"/></a>
 
 ---
