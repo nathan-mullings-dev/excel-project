@@ -18,6 +18,7 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
   - **GDPR**
   - **Freedom of Information Act**
   - **Computer Misuse Act**
+    
 - Each law was broken down into:
   - What it is
   - Why it matters
