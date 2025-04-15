@@ -71,10 +71,4 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
 
 ---
 
-## 📂 Repository Contents
-- `workbook_week1.pdf` – Completed tasks and screenshots
-- `datasets/` – Sample Excel files used in labs (links provided inside the workbook)
-
----
-
 > 💡 *This workbook reflects the foundation of data handling best practices, setting the stage for more advanced tools and programming to follow in the Data Technician journey.*
