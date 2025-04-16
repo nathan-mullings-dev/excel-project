@@ -1,8 +1,6 @@
-# Excel Project | Just IT
+# 📘 Data Technician Workbook – Excel Project | Just IT [(PDF)](https://github.com/nathan-mullings-dev/excel-project/blob/main/Data%20Technician%20Workbook%20-%20Week%201.pdf)
 
 ---
-
-## 📘 Data Technician Workbook – Week 1 [(PDF)](https://github.com/nathan-mullings-dev/excel-project/blob/main/Data%20Technician%20Workbook%20-%20Week%201.pdf)
 
 ## 📋 Overview
 
@@ -69,4 +67,4 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
 
 ---
 
-> 💡 *This workbook reflects the foundation of data handling best practices, setting the stage for more advanced tools and programming to follow in the Data Technician journey.*
+This workbook reflects the foundation of data handling best practices, setting the stage for more advanced tools and programming to follow in the Data Technician journey.
