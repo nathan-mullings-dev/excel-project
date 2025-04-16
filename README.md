@@ -52,7 +52,7 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
 ---
 
 ## 🛠️ Tools Used
-- **Microsoft Excel**
+- **Microsoft 💡**
 - **Data Cleaning & Filtering**
 - **Formulas**: `SUM`, `AVERAGE`, `SWITCH`
 - **Pivot Tables & Charts**
@@ -67,4 +67,4 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
 
 ---
 
-This workbook reflects the foundation of data handling best practices, setting the stage for more advanced tools and programming to follow in the Data Technician journey.
+💡 This workbook reflects the foundation of data handling best practices, setting the stage for more advanced tools and programming to follow in the Data Technician journey.
