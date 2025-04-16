@@ -59,12 +59,18 @@ This workbook documents the hands-on tasks completed during Week 1 of the Data T
 
 ---
 
-## 📌 Key Learnings
-- Understanding legal frameworks around data use
-- Structuring and analyzing datasets using Excel
-- Building pivot tables for summarized insights
-- Categorizing and visualizing data for storytelling
+## 🎯 Learning Outcomes
 
----
+By the end of this workbook, I was able to:
+
+- Understand and apply data protection laws like **GDPR**, **Data Protection Act**, and the **Computer Misuse Act**
+- Use Excel to:
+  - Format and filter datasets
+  - Create and analyse **Pivot Tables**
+  - Use formulas such as **SUM**, **AVERAGE**, and **SWITCH**
+- Interpret insights from datasets, including:
+  - Identifying top-performing regions, age groups, and customer types
+  - Categorising sales data based on volume
+- Gain experience with **data visualisation** principles and tools in Excel
 
 This workbook reflects the foundation of data handling best practices, setting the stage for more advanced tools and programming to follow in the Data Technician journey.
