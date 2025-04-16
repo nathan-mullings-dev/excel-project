@@ -1,4 +1,4 @@
-# 📘 Data Technician Workbook – Excel Project | Just IT [(PDF)](https://github.com/nathan-mullings-dev/excel-project/blob/main/Data%20Technician%20Workbook%20-%20Week%201.pdf)
+# 📘 Data Technician Workbook – Excel Project | Just IT [(PDF)](https://github.com/nathan-mullings-dev/excel-project-justit/blob/main/Data%20Technician%20Workbook%20-%20Excel%20Project.pdf)
 
 ---
 
