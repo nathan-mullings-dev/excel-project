@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-This workbook documents the hands-on tasks completed during Week 1 of the Data Technician Bootcamp. It includes practical activities and exercises using Excel, focusing on foundational data skills such as data protection principles, dataset manipulation, pivot tables, Excel formulas, and simple data visualizations.
+This workbook documents the hands-on tasks I completed during the Excel module of Just IT's Data Technician Bootcamp. It includes practical exercises using various datasets and focuses on foundational data skills such as data protection principles, dataset manipulation, pivot tables, Excel formulas, and basic data visualisations.
 
 ---
 
