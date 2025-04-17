@@ -10,7 +10,7 @@ This workbook documents the hands-on tasks I completed during the Excel module o
 
 ## 📅 Breakdown of Activities
 
-### **Day 1 – Data Laws & Ethics**
+### **Data Laws & Ethics**
 - Summarized and reflected on key data-related legislation:
   - **Data Protection Act**
   - **GDPR**
@@ -26,7 +26,7 @@ This workbook documents the hands-on tasks I completed during the Excel module o
 
 ---
 
-### **Day 2 – Excel Foundations**
+### **Excel Foundations**
 - **Task 1: Retail Sales Dataset**
   - Imported data into a structured Excel table
   - Applied filters and sorting (e.g., by Age)
@@ -36,7 +36,7 @@ This workbook documents the hands-on tasks I completed during the Excel module o
 
 ---
 
-### **Day 3 – Pivot Tables & Categorization**
+### **Pivot Tables & Categorization**
 - **Task 1: Bike Sales Pivot Table Lab**
   - Created a pivot table to analyze market and customer insights
   - Reflected on findings by country, age group, and gender
@@ -51,11 +51,10 @@ This workbook documents the hands-on tasks I completed during the Excel module o
 
 ---
 
-## 🛠️ Tools Used
-- **Microsoft 💡**
+## 🛠️ Tools & Techniques Used
 - **Data Cleaning & Filtering**
-- **Formulas**: `SUM`, `AVERAGE`, `SWITCH`
-- **Pivot Tables & Charts**
+- **Excel Formulas**: `SUM`, `AVERAGE`, `SWITCH`
+- **Pivot Tables & Pivot Charts**
 
 ---
 
