@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-This workbook documents the hands-on tasks I completed during the Excel module of Just IT's Data Skills Bootcamp. It includes practical exercises using various datasets and focuses on foundational data skills such as data protection principles, dataset manipulation, pivot tables, Excel formulas, and basic data visualisations.
+This workbook documents the hands-on tasks I completed during the Excel module of **Just IT's Data Skills Bootcamp**. It includes practical exercises using various datasets and focuses on foundational data skills such as data protection principles, dataset manipulation, pivot tables, Excel formulas, and basic data visualisations.
 
 ---
 
