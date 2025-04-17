@@ -1,4 +1,4 @@
-# 📘 Data Technician Workbook – Excel | Just IT
+# 📘 Data Technician Workbook – Excel | Just IT Data Skills Bootcamp
 
 ---
 
